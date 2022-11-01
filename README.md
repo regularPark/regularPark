@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   
   <br/>
   
@@ -30,6 +30,6 @@
   ---
   
   ### 🏅BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=srk99279)](https://solved.ac/srk99279)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=srk99279)](https://solved.ac/srk99279/)<br/>
 
 </div>
