@@ -31,6 +31,6 @@
   
   ### 🏅BOJ
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=srk99279)](https://solved.ac/srk99279/)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=srk99279)](https://solved.ac/srk99279)
 
 </div>
